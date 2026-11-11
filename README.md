@@ -6,6 +6,7 @@ This exercises focused on reconnaissance, footprinting, information gathering, n
 
 The following six tools were used during the reconnaissance and information-gathering exercises.
 
+
 Tool            Purpose
 
 WHOIS           Retrieves domain registration information.
@@ -31,6 +32,7 @@ My own local LAN network.
 All testing was restricted to authorized target.
 
 
+
  Phases Covered
 
 Phase 1: Reconnaissance and Footprinting – Completed.
@@ -54,6 +56,7 @@ Web Application Firewall detection.
 Network scanning using Zenmap.
 
 Network discovery and reconnaissance.
+
 
 
 Evidence and Screenshots
