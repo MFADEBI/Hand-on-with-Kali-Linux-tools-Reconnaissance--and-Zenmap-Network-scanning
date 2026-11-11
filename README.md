@@ -1,6 +1,8 @@
  Hand-on-with-Kali-Linux-tools-Reconnaissance--and-Zenmap-Network-scanning
+ 
 
 This exercises focused on reconnaissance, footprinting, information gathering, network scanning, and network discovery using Kali Linux tools and Zenmap.
+
 
  Kali Linux Tools Used
 
@@ -9,17 +11,17 @@ The following six tools were used during the reconnaissance and information-gath
 
 Tool            Purpose
 
-WHOIS           Retrieves domain registration information.
+whois -           Retrieves domain registration information.
 
-WhatWeb          Identifies technologies used by websites.
+WhatWeb -        Identifies technologies used by websites.
 
-Nslookup         Performs DNS lookups.
+Nslookup -        Performs DNS lookups.
 
-Curl -I          Retrieves HTTP response headers.
+Curl -I -         Retrieves HTTP response headers.
 
-DNSRecon (-d)     Performs DNS reconnaissance.
+DNSRecon (-d) -    Performs DNS reconnaissance.
 
-WAFW00F           Identifies Web Application Firewalls.
+wafw00f -          Identifies Web Application Firewalls.
 
 
  
